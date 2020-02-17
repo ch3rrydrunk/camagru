@@ -1,3 +1,4 @@
 .DS_*
 *.zip
 *.log
+application/config/db.php
