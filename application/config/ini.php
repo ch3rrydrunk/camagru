@@ -22,7 +22,4 @@ ini_set('log_errors', true);
 ini_set("error_log", "camagru.log");
 ini_set('log_errors_max_len', 1024);
 
-//sesh
-session_start();
-
 ?>
